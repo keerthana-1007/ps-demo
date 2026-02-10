@@ -1,0 +1,2 @@
+MY file 2 in Git bash
+
